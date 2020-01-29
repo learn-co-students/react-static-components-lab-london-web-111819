@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+
 export default class CatComponent extends Component {
   render() {
     return (
